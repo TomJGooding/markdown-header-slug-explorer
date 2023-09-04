@@ -1,25 +1,17 @@
-# Hello world
+# test
 
-# Hello, world
+# Test
 
-# Hello, world
+#  Test  
 
-# hello, World
+# -test-
 
-# Hello,,,,,, world
+# !test!
 
-# HeLlO,,,,, WorLD!!!!!
+# test test
 
-# Hello!
+# test  test
 
-# !Hello!
-
-# -Hello-
-
-# --Hello--
-
-# Hello, - World-!
-
-# This -- heading has ----- it's own dashes -- in it
+# test      test
 
 # test!"#$%&'()*+,-./:;<=>?@[]^_`{|}~test
